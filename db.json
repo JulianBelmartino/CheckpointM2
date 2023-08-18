@@ -1,0 +1,45 @@
+{
+    "recitales": [
+      {
+        "id": 1,
+        "nombre": "Guns N' Roses",
+        "fecha": "2023-08-15",
+        "lugar": "Estadio Wembley, Londres",
+        "descripcion": "Guns N' Roses regresa con un concierto épico en el Estadio Wembley. No te pierdas la oportunidad de presenciar la legendaria banda de Rock en vivo.",
+        "imagen": "https://example.com/gunsnroses.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Metallica",
+        "fecha": "2023-08-15",
+        "lugar": "Estadio Wembley, Londres",
+        "descripcion": "Metallica, la icónica banda de Heavy Metal, llega al Estadio Wembley para ofrecer un espectáculo inolvidable con sus clásicos y nuevos éxitos.",
+        "imagen": "https://example.com/metallica.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Aerosmith",
+        "fecha": "2023-08-15",
+        "lugar": "Estadio Wembley, Londres",
+        "descripcion": "Aerosmith hará vibrar el Estadio Wembley con su incomparable estilo y talento musical. ¡Prepárate para una noche de Rock inolvidable!",
+        "imagen": "https://example.com/aerosmith.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Led Zeppelin",
+        "fecha": "2023-09-25",
+        "lugar": "Madison Square Garden, New York",
+        "descripcion": "Led Zeppelin, la mítica banda de Rock, regresa a los escenarios para ofrecer un show único en el Madison Square Garden.",
+        "imagen": "https://example.com/ledzeppelin.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Deep Purple",
+        "fecha": "2023-09-25",
+        "lugar": "Madison Square Garden, New York",
+        "descripcion": "Deep Purple, una de las bandas pioneras del Hard Rock, se presentará en el Madison Square Garden con su potente sonido y actuación en vivo.",
+        "imagen": "https://example.com/deeppurple.jpg"
+      }
+    ]
+  }
+  
